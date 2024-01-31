@@ -22,5 +22,5 @@ We will correct misunderstandings, we will not argue how we enforce our rules. I
 ### Discord
 - [ToS](https://discord.com/terms)
 
-### Questions?
+## Questions?
 - If you have questions regarding the rules or bans, please feel free to message the moderators via mail at **wiidc@proton.me**
