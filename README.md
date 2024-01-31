@@ -3,6 +3,10 @@ If you have any issues with our rules, please ask us to discuss them with you th
 
 Wanting to debate our rules in a public forum while in violation of our rules won’t be taken well by our moderation staff.
 
+### [1. Be Civil](https://github.com/wiidc/rules/blob/main/pages/1.md)
+### [2. No Spam](https://github.com/wiidc/rules/blob/main/pages/2.md)
+### [3. No Piracy](https://github.com/wiidc/rules/blob/main/pages/3.md)
+
 ## Removal From the Community
 We reserve the right to remove anyone from our community for any or no reason with no explanation on any platform we currently occupy.
 
